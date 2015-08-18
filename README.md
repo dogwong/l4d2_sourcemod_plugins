@@ -1,4 +1,5 @@
-# l4d2_sourcemod_plugins
+# Left 4 Dead 2 SourceMod Plugins by dogwong
 
-License: GPLv2
+GPLv2
+
 
