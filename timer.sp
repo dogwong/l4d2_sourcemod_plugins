@@ -26,7 +26,9 @@ L4D2 計時器
 
 開發此插件時所使用的環境是SourceMod 1.2, 我印象中...
 
-
+Codes after this comment block are copied from original sp file.
+此段註解後的代碼是從原裝的sp檔案中複製
+==========================================
 */
 
 #include <sourcemod>
